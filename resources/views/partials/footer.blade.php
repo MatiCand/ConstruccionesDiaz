@@ -13,7 +13,7 @@
         </div> <!-- end .contact -->
         <div class="contact">
           <div class="icon"><i class="ion-ios-telephone-outline"></i></div>
-          <div class="content">15 2 283 7730<br />construccionesdiaz10@hotmail.com</div>
+          <div class="content">15 2283 7730<br />construccionesdiaz10@hotmail.com</div>
         </div> <!-- end .contact -->
       </div> <!-- end .col-sm-3 -->
       <div class="col-sm-3 col-sm-offset-1">
@@ -21,6 +21,7 @@
         <div class="social-icons">
           <a href="https://www.facebook.com/paginaconstruccionesdiaz/?fref=ts" target="_blank"><i class="fa fa-facebook"></i><span>acebook</span></a>
           {{-- <a href=""><i class="fa fa-twitter"></i></a> --}}
+          <div class="fb-like" data-href="https://www.facebook.com/paginaconstruccionesdiaz/" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
         </div> <!-- end .social-icons -->
       </div> <!-- end .col-sm-3 -->
     </div> <!-- end .row -->

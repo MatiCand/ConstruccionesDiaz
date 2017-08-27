@@ -1,7 +1,10 @@
 <header class="header">
   <div class="top">
     <div class="container clearfix">
-      <div class="links"><a href="mailto:construccionesdiaz10@hotmail.com"><i class="fa fa-envelope-o"></i>construccionesdiaz10@hotmail.com</a><a href="tel:+2156237532"><i class="fa fa-phone"></i>15 2 283 7730</a></div>
+      <div class="links">
+        <a href="mailto:construccionesdiaz10@hotmail.com"><i class="fa fa-envelope-o"></i>construccionesdiaz10@hotmail.com</a>
+        <a href="tel:+2156237532"><i class="fa fa-phone"></i>15 2283 7730</a>
+      </div>
     </div> <!-- end .container -->
   </div> <!-- end .top -->
   <div class="navigation">

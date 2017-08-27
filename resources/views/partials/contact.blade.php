@@ -1,4 +1,4 @@
-<div class="page-title"  id="contact">
+<div class="page-title">
 	<div class="inner">
 		<div class="container">
 			<div class="title">Contáctenos</div>
@@ -19,7 +19,7 @@
 				</div> <!-- end .contact -->
 				<div class="contact col-sm-3">
 					<div class="icon"><i class="fa fa-phone"></i></div>
-					<span>15 2 283 7730</span>
+					<span>15 2283 7730</span>
 				</div> <!-- end .contact -->
 				<div class="contact col-sm-3">
 					<div class="icon"><i class="fa fa-skype"></i></div>
@@ -32,7 +32,9 @@
 			</div> <!-- end .contacts -->
 
 
-			<div class="row">
+			<div class="row" id="contact">
+				<br>
+				<h1 class="center-heading"><small>Envianos tu consulta, la responderemos lo más rápido posible</small>Consultar</h1>
 				<div class="col-sm-10 col-sm-offset-1">
 					<div class="contact-form-stripes"></div>
 					<div class="contact-form-wrapper">

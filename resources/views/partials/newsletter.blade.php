@@ -5,7 +5,7 @@
         <div class="col-sm-7">
 
 
-          <form action="//noticianorte.us13.list-manage.com/subscribe/post?u=2e1f529f876b23d5e9522949a&amp;id=00b99818ec" method="post" target="_blank" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="newsletter-form" novalidate>
+          <form action="//top.us16.list-manage.com/subscribe/post?u=4144a71535f81c22670bb18e0&amp;id=d3dbffef6a" method="post" target="_blank" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="newsletter-form" novalidate>
 
             <span class="little-label">Te gusta nuestro trabajo? suscribite a nuestro newsletter</span>
             <div class="clearfix">
